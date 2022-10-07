@@ -1,0 +1,11 @@
+Task_001\.venv
+Task_002\.venv
+Task_001\.vscode
+Task_002\.vscode
+Task_002\help.txt
+Task_001\__pycache__
+Task_002\__pycache__
+__pycache__
+.vscode
+.venv
+help.txt
